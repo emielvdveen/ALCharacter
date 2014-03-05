@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		
+		<key>klant 2 los0024.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>klant 2 los0063.png</string>
+			
+				<string>klant 2 los0038.png</string>
+			
+				<string>klant 2 los0058.png</string>
+			
+				<string>klant 2 los0060.png</string>
+			
+				<string>klant 2 los0062.png</string>
+			
+				<string>klant 2 los0087.png</string>
+			
+				<string>klant 2 los0056.png</string>
+			
+				<string>klant 2 los0039.png</string>
+			
+				<string>klant 2 los0061.png</string>
+			
+				<string>klant 2 los0105.png</string>
+			
+				<string>klant 2 los0059.png</string>
+			
+				<string>klant 2 los0064.png</string>
+			
+				<string>klant 2 los0026.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{107, 18}, {372, 844}}</string>
+			<key>spriteOffset</key>
+			<string>{18, 10}</string>
+			<key>spriteSize</key>
+			<string>{372, 844}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1486, 1700}, {372, 844}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0025.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>klant 2 los0057.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{107, 18}, {372, 844}}</string>
+			<key>spriteOffset</key>
+			<string>{18, 10}</string>
+			<key>spriteSize</key>
+			<string>{372, 844}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1488, 850}, {372, 844}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0027.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{106, 23}, {370, 838}}</string>
+			<key>spriteOffset</key>
+			<string>{16, 8}</string>
+			<key>spriteSize</key>
+			<string>{370, 838}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1894, 2538}, {370, 838}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0028.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>klant 2 los0029.png</string>
+			
+				<string>klant 2 los0031.png</string>
+			
+				<string>klant 2 los0033.png</string>
+			
+				<string>klant 2 los0035.png</string>
+			
+				<string>klant 2 los0034.png</string>
+			
+				<string>klant 2 los0032.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{107, 40}, {362, 822}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -1}</string>
+			<key>spriteSize</key>
+			<string>{362, 822}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2994, 814}, {362, 822}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0030.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{107, 40}, {362, 822}}</string>
+			<key>spriteOffset</key>
+			<string>{13, -1}</string>
+			<key>spriteSize</key>
+			<string>{362, 822}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2620, 836}, {362, 822}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0036.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{110, 42}, {358, 820}}</string>
+			<key>spriteOffset</key>
+			<string>{14, -2}</string>
+			<key>spriteSize</key>
+			<string>{358, 820}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{3358, 818}, {358, 820}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0037.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{107, 30}, {372, 832}}</string>
+			<key>spriteOffset</key>
+			<string>{18, 4}</string>
+			<key>spriteSize</key>
+			<string>{372, 832}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2234, 1674}, {372, 832}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0040.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{104, 17}, {376, 846}}</string>
+			<key>spriteOffset</key>
+			<string>{17, 10}</string>
+			<key>spriteSize</key>
+			<string>{376, 846}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1138, 2556}, {376, 846}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0041.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>klant 2 los0045.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{123, 9}, {378, 854}}</string>
+			<key>spriteOffset</key>
+			<string>{37, 14}</string>
+			<key>spriteSize</key>
+			<string>{378, 854}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 1712}, {378, 854}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0042.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{123, 9}, {378, 854}}</string>
+			<key>spriteOffset</key>
+			<string>{37, 14}</string>
+			<key>spriteSize</key>
+			<string>{378, 854}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 856}, {378, 854}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0043.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>klant 2 los0044.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{123, 9}, {378, 854}}</string>
+			<key>spriteOffset</key>
+			<string>{37, 14}</string>
+			<key>spriteSize</key>
+			<string>{378, 854}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 2568}, {378, 854}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0046.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{122, 11}, {378, 850}}</string>
+			<key>spriteOffset</key>
+			<string>{36, 14}</string>
+			<key>spriteSize</key>
+			<string>{378, 850}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{728, 1712}, {378, 850}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0047.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{122, 13}, {380, 848}}</string>
+			<key>spriteOffset</key>
+			<string>{37, 13}</string>
+			<key>spriteSize</key>
+			<string>{380, 848}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{730, 856}, {380, 848}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0048.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{123, 14}, {376, 848}}</string>
+			<key>spriteOffset</key>
+			<string>{36, 12}</string>
+			<key>spriteSize</key>
+			<string>{376, 848}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{760, 2564}, {376, 848}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0049.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{123, 14}, {376, 848}}</string>
+			<key>spriteOffset</key>
+			<string>{36, 12}</string>
+			<key>spriteSize</key>
+			<string>{376, 848}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1108, 1706}, {376, 848}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0050.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>klant 2 los0052.png</string>
+			
+				<string>klant 2 los0051.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{123, 14}, {376, 848}}</string>
+			<key>spriteOffset</key>
+			<string>{36, 12}</string>
+			<key>spriteSize</key>
+			<string>{376, 848}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{750, 0}, {376, 848}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0053.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{122, 11}, {378, 850}}</string>
+			<key>spriteOffset</key>
+			<string>{36, 14}</string>
+			<key>spriteSize</key>
+			<string>{378, 850}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{380, 2568}, {378, 850}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0054.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>klant 2 los0055.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{123, 9}, {378, 854}}</string>
+			<key>spriteOffset</key>
+			<string>{37, 14}</string>
+			<key>spriteSize</key>
+			<string>{378, 854}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{0, 0}, {378, 854}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0065.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{100, 29}, {408, 834}}</string>
+			<key>spriteOffset</key>
+			<string>{29, 4}</string>
+			<key>spriteSize</key>
+			<string>{408, 834}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2210, 838}, {408, 834}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0066.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>klant 2 los0069.png</string>
+			
+				<string>klant 2 los0070.png</string>
+			
+				<string>klant 2 los0071.png</string>
+			
+				<string>klant 2 los0068.png</string>
+			
+				<string>klant 2 los0067.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{123, 9}, {348, 854}}</string>
+			<key>spriteOffset</key>
+			<string>{22, 14}</string>
+			<key>spriteSize</key>
+			<string>{348, 854}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{380, 856}, {348, 854}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0072.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{122, 9}, {346, 854}}</string>
+			<key>spriteOffset</key>
+			<string>{20, 14}</string>
+			<key>spriteSize</key>
+			<string>{346, 854}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{380, 1712}, {346, 854}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0073.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{111, 25}, {346, 836}}</string>
+			<key>spriteOffset</key>
+			<string>{9, 7}</string>
+			<key>spriteSize</key>
+			<string>{346, 836}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1862, 838}, {346, 836}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0074.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>klant 2 los0075.png</string>
+			
+				<string>klant 2 los0076.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{56, 50}, {392, 812}}</string>
+			<key>spriteOffset</key>
+			<string>{-23, -6}</string>
+			<key>spriteSize</key>
+			<string>{392, 812}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2994, 0}, {392, 812}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0077.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{58, 47}, {388, 816}}</string>
+			<key>spriteOffset</key>
+			<string>{-23, -5}</string>
+			<key>spriteSize</key>
+			<string>{388, 816}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{3388, 0}, {388, 816}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0078.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>klant 2 los0079.png</string>
+			
+				<string>klant 2 los0080.png</string>
+			
+				<string>klant 2 los0081.png</string>
+			
+				<string>klant 2 los0083.png</string>
+			
+				<string>klant 2 los0084.png</string>
+			
+				<string>klant 2 los0082.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{70, 15}, {374, 848}}</string>
+			<key>spriteOffset</key>
+			<string>{-18, 11}</string>
+			<key>spriteSize</key>
+			<string>{374, 848}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1112, 850}, {374, 848}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0085.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{76, 9}, {368, 854}}</string>
+			<key>spriteOffset</key>
+			<string>{-15, 14}</string>
+			<key>spriteSize</key>
+			<string>{368, 854}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{380, 0}, {368, 854}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0086.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{102, 13}, {360, 848}}</string>
+			<key>spriteOffset</key>
+			<string>{7, 13}</string>
+			<key>spriteSize</key>
+			<string>{360, 848}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1128, 0}, {360, 848}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0088.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>klant 2 los0095.png</string>
+			
+				<string>klant 2 los0093.png</string>
+			
+				<string>klant 2 los0091.png</string>
+			
+				<string>klant 2 los0094.png</string>
+			
+				<string>klant 2 los0104.png</string>
+			
+				<string>klant 2 los0089.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{105, 23}, {372, 840}}</string>
+			<key>spriteOffset</key>
+			<string>{16, 7}</string>
+			<key>spriteSize</key>
+			<string>{372, 840}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1860, 1696}, {372, 840}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0090.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>klant 2 los0092.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{105, 18}, {370, 842}}</string>
+			<key>spriteOffset</key>
+			<string>{15, 11}</string>
+			<key>spriteSize</key>
+			<string>{370, 842}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1490, 0}, {370, 842}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0096.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{108, 24}, {376, 834}}</string>
+			<key>spriteOffset</key>
+			<string>{21, 9}</string>
+			<key>spriteSize</key>
+			<string>{376, 834}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2616, 0}, {376, 834}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0097.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>klant 2 los0099.png</string>
+			
+				<string>klant 2 los0101.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{108, 18}, {376, 840}}</string>
+			<key>spriteOffset</key>
+			<string>{21, 12}</string>
+			<key>spriteSize</key>
+			<string>{376, 840}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1516, 2546}, {376, 840}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0098.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+				<string>klant 2 los0102.png</string>
+			
+				<string>klant 2 los0100.png</string>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{108, 23}, {376, 834}}</string>
+			<key>spriteOffset</key>
+			<string>{21, 10}</string>
+			<key>spriteSize</key>
+			<string>{376, 834}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{2238, 0}, {376, 834}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+		<key>klant 2 los0103.png</key>
+		<dict>
+			<key>aliases</key>
+			<array>
+			
+			</array>
+			<key>spriteColorRect</key>
+			<string>{{107, 23}, {374, 836}}</string>
+			<key>spriteOffset</key>
+			<string>{19, 9}</string>
+			<key>spriteSize</key>
+			<string>{374, 836}</string>
+			<key>spriteSourceSize</key>
+			<string>{550, 900}</string>
+			<key>spriteTrimmed</key>
+			<true/>
+			<key>textureRect</key>
+			<string>{{1862, 0}, {374, 836}}</string>
+			<key>textureRotated</key>
+			<false/>
+		</dict>
+		
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>version</key>
+		<string>1.5.5</string>
+		<key>format</key>
+		<integer>3</integer>
+		<key>size</key>
+		<string>{4096, 4096}</string>
+		<key>name</key>
+		<string>klant 2</string>
+		<key>premultipliedAlpha</key>
+		<false/>
+		<key>target</key>
+		<dict>
+			<key>name</key>
+			<string>HD</string>
+			<key>textureFileName</key>
+			<string>klant2@2x</string>
+			<key>textureFileExtension</key>
+			<string>.png</string>
+			<key>coordinatesFileName</key>
+			<string>klant2@2x</string>
+			<key>coordinatesFileExtension</key>
+			<string>.plist</string>
+			<key>premultipliedAlpha</key>
+			<false/>
+		</dict>
+	</dict>
+</dict>
+</plist>

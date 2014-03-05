@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FC247D17-CCC7-4F22-A0F1-06BABD1A666A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ALCharacter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1611E69F-965D-4568-B6C2-A101C8046861</key>
+		<string>https://bitbucket.org/byzzy/jipenjanneke.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ALCharacter/ALCharacter.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1611E69F-965D-4568-B6C2-A101C8046861</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/byzzy/jipenjanneke.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1611E69F-965D-4568-B6C2-A101C8046861</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1611E69F-965D-4568-B6C2-A101C8046861</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ScriptEngine</string>
+		</dict>
+	</array>
+</dict>
+</plist>
