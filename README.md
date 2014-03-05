@@ -16,6 +16,12 @@ Please download and install the Cocos2D framework: https://github.com/cocos2d/co
 
 Copy the necessary files in the Example/Libs folder.
 
+
 ## License ##
 
 ALCharacter is available under the MIT license.
+
+
+## Creating sprite sheets ##
+
+If you are looking for an app to create your sprite sheets, check out Zwoptex: http://www.zwopple.com/zwoptex
