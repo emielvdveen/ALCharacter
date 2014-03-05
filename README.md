@@ -14,7 +14,7 @@ info@applike.nl
 
 Please download and install the Cocos2D framework: https://github.com/cocos2d/cocos2d-iphone
 
-Copy the necessary in the Example/Libs folder.
+Copy the necessary files in the Example/Libs folder.
 
 ## License ##
 
