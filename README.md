@@ -1,6 +1,6 @@
 # ALCharacter #
 
-A cocos2D for iPhone animation script engine
+A cocos2d-iphone animation script engine
 
 Emiel van der Veen
 
@@ -10,9 +10,9 @@ http://www.applike.nl
 
 info@applike.nl
 
-## cocos2D for iPhone ##
+## cocos2d-iphone ##
 
-Please download and install cocos2D for iPhone: https://github.com/cocos2d/cocos2d-iphone
+Please download and install cocos2d-iphone: https://github.com/cocos2d/cocos2d-iphone
 
 Copy the necessary files in the Example/Libs folder.
 
