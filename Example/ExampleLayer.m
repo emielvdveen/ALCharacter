@@ -23,7 +23,7 @@
 
 @implementation ExampleLayer
 
-// Helper class method that creates a Scene with the HelloWorldLayer as the only child.
+// Helper class method that creates a Scene with the ExampleLayer as its only child.
 +(CCScene *) scene
 {
 	// 'scene' is an autorelease object.
@@ -68,7 +68,7 @@
 
 - (void) executeScript;
 {
-    // ^ = interuptable moment in the animation, if another script is executed it wil try to interupted the running
+    // ^ == interuptable moment in the animation, if another script is executed it wil try to interupt the running one
     NSString* script = @"walkIn stopWalking ^ order pause angry ^ order winking pause happy ^ walkOut";
     [_character run:script completed:^{
         [self executeScript2];
